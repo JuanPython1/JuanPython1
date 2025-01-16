@@ -19,7 +19,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left" style="display: flex; flex-wrap: wrap;">
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
+    <img src="https://th.bing.com/th/id/R.8ee926be8802a7d8adec1507757f4351?rik=Er%2fwDXTdrxMHMQ&riu=http%3a%2f%2fi.cloudup.com%2fzfY6lL7eFa-3000x3000.png&ehk=Yv56sHeOh1ZzvKZsRAe6NkBtj5S35qrZDpzrD5zzJ3Y%3d&risl=&pid=ImgRaw&r=0" alt="express" width="40" height="40"/> 
   </a>
   
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
