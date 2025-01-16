@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Juan Rodriguez</h1>
 <h3 align="center">A passionate Full-Stack developer and Mobile Developer from Colombia</h3>
 
-- 🔭 I’m currently working on an [IA App](https://proyecto-pf.vercel.app)
+- 🔭 I’m currently working IA APP with Expo
 
 - 🌱 I’m currently learning **React and NextJS and TypesScript and Expo React Native and Express**
 
