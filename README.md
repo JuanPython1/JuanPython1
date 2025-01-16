@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [Some Link](Some Link)
 
-- 📫 How to reach me **homerogazze1015@gmail.com**
+- 📫 How to reach me **rodriguezjuanwork1@gmail.com**
 
 - ⚡ Fun fact **HTML isn't a programming language**
 
