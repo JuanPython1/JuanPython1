@@ -39,7 +39,7 @@
   </a> 
 
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> 
+    <img src="https://th.bing.com/th/id/OIP.Tdjq_du4e2YxL6xiyYHSrAHaEp?rs=1&pid=ImgDetMain" alt="nextjs" width="40" height="40"/> 
   </a> 
 
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
