@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **React and NextJS and TypesScript and Expo React Native and Express**
 
-- 👨‍💻 All of my projects are available at [Some Link](Some Link)
-
 - 📫 How to reach me **rodriguezjuanwork1@gmail.com**
 
 - ⚡ Fun fact **HTML isn't a programming language**
